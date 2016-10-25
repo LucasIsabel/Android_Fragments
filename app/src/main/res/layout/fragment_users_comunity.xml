@@ -1,0 +1,20 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    tools:context="fragment.com.br.fragments_studies.UsersComunity"
+    android:id="@+id/comunity_fragment"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recipe Fragment"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:gravity="center_horizontal" />
+
+</FrameLayout>
